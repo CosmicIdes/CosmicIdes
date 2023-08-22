@@ -1,7 +1,7 @@
 ### Hey there 👋
 
 
-- 🔭 I’m currently working on cleaning up some of my older projects with SOLID principles and starting some new C# applications.
+- 🔭 I’m currently working on creating a Resume website.
 - 🌱 I’m currently learning C# and .NET, as well as Unity.
 - 👯 I’m looking to collaborate on anything, but especially games!
 - 🤔 I’m looking for help with anything!
