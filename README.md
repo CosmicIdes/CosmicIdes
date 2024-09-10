@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on creating a Resume website.
-- 🌱 I’m currently learning C# and .NET.
+- 🌱 I’m currently learning C# and .NET, and testing with Selenium.
 - 👯 I’m looking to collaborate on anything, but especially games!
 - 🤔 I’m looking for help with anything!
 - 💬 Ask me about gaming and pets!
